@@ -17,7 +17,7 @@ export const PromptBuilder = (data)=>{
     3. A full-day meal plan (breakfast, lunch, dinner, snacks).
     4. Explanations for each food choice.
     5. Tips for maintaining long-term health.
-    6. users health stats like bmi,estimated calorie taken,etc.
+    6. users health stats like bmi,estimated calorie taken,weight category(overweight,under-weight)etc.
 
     Make sure the advice is easy to follow, practical, and well-formatted.
 
